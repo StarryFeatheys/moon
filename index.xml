@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>星影导航阁</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 星影导航阁</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;关于&#34;&gt;关于&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;星影导航阁&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;这里，汇聚着各种实用的信息资源。&lt;/p&gt;&#xA;&lt;p&gt;站长 &lt;a href=&#34;https://starryfeatheys.github.io/&#34;&gt;JianHui&lt;/a&gt;（建辉），看似随性，实则用心。&lt;/p&gt;&#xA;&lt;p&gt;来这儿，您定能找到所需！&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;星影导航阁，伴您轻松网上游！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
